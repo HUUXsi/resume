@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    background: linear-gradient(to bottom left, cyan 50%, palegoldenrod 50%);
+    color: #0f141e;
+  }
